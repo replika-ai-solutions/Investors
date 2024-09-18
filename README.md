@@ -33,9 +33,6 @@ Estamos buscando um investimento de **R$ 10 milhões** (aproximadamente **USD 2 
 - **⚙️ Automação com LLMs**
 - **🌐 Integração de Sistemas**
 
-### 📈 Conquistas
-
-![GitHub stars](https://img.shields.io/github/stars/replika-ai-solutions?style=social) ![GitHub forks](https://img.shields.io/github/forks/replika-ai-solutions?style=social) ![GitHub issues](https://img.shields.io/github/issues/replika-ai-solutions?style=social) ![GitHub license](https://img.shields.io/github/license/replika-ai-solutions?color=blue) ![Build Status](https://img.shields.io/github/workflow/status/replika-ai-solutions/ci/CD?label=Build%20Status)
 
 Para mais informações e para discutir oportunidades de investimento, entre em contato conosco:
 
@@ -70,9 +67,6 @@ Estamos buscando una inversión de **R$ 10 millones** (aproximadamente **USD 2 m
 - **⚙️ Automatización con LLMs**
 - **🌐 Integración de Sistemas**
 
-### 📈 Logros
-
-![GitHub stars](https://img.shields.io/github/stars/replika-ai-solutions?style=social) ![GitHub forks](https://img.shields.io/github/forks/replika-ai-solutions?style=social) ![GitHub issues](https://img.shields.io/github/issues/replika-ai-solutions?style=social) ![GitHub license](https://img.shields.io/github/license/replika-ai-solutions?color=blue) ![Build Status](https://img.shields.io/github/workflow/status/replika-ai-solutions/ci/CD?label=Build%20Status)
 
 Para más información y para discutir oportunidades de inversión, contáctanos:
 ---
@@ -106,9 +100,6 @@ We are seeking an investment of **R$ 10 million** (approximately **USD 2 million
 - **⚙️ Automation with LLMs**
 - **🌐 System Integration**
 
-### 📈 Achievements
-
-![GitHub stars](https://img.shields.io/github/stars/replika-ai-solutions?style=social) ![GitHub forks](https://img.shields.io/github/forks/replika-ai-solutions?style=social) ![GitHub issues](https://img.shields.io/github/issues/replika-ai-solutions?style=social) ![GitHub license](https://img.shields.io/github/license/replika-ai-solutions?color=blue) ![Build Status](https://img.shields.io/github/workflow/status/replika-ai-solutions/ci/CD?label=Build%20Status)
 
 For more information and to discuss investment opportunities, please contact us:
 
